@@ -389,13 +389,15 @@ a{
 .gallery.layout-1-gallery #img3,
 .gallery.layout-1-gallery #img9,
 .gallery.layout-1-gallery #img10,
-.gallery.layout-1-gallery #img11,
-.gallery.layout-1-gallery #img14{
+.gallery.layout-1-gallery #img12,
+.gallery.layout-1-gallery #img13{
     display: none;
 }
 
 .gallery.layout-1-gallery #img4{
     top: 50%;
+    /*left: 65%;*/
+    left: 69%;
 }
 
 .gallery.layout-1-gallery #img5{
@@ -404,6 +406,7 @@ a{
 
 .gallery.layout-1-gallery #img6{
     top: 50%;
+    left: 35%;
 }
 
 .gallery.layout-1-gallery #img7,
@@ -418,20 +421,6 @@ a{
 .gallery.layout-1-gallery #img9,
 .gallery.layout-1-gallery #img10{
     top: 50%;
-}
-
-
-.gallery.layout-1-gallery #img12,
-.gallery.layout-1-gallery #img13{
-    top: 75%;
-}
-
-.gallery.layout-1-gallery #img12{
-    left: 2em;
-}
-
-.gallery.layout-1-gallery #img13{
-    left: 75%;
 }
 
 
